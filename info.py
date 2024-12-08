@@ -25,7 +25,7 @@ TIMEZONE = environ.get("TIMEZONE", "Asia/Kolkata")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
-USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
+USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'False)), True)
 PICS = (environ.get('PICS', 'https://telegra.ph/file/0ed351c8605c23e8cae79.jpg https://telegra.ph/file/6524270c008b60f81f30a.jpg https://telegra.ph/file/848ed57090fd5111ce64d.jpg https://telegra.ph/file/5fe959d96fcc33d1b9dc9.jpg https://telegra.ph/file/ec5f5a031b7826e28360c.jpg https://telegra.ph/file/aa4b77441bb41cfce12d7.jpg https://telegra.ph/file/00ed60e2c89d564d850ef.jpg https://telegra.ph/file/a5d518f6020976bc45264.jpg https://telegra.ph/file/650191ad1f813ca8f41cb.jpg https://telegra.ph/file/c6042704a1bc0a2b52996.jpg https://telegra.ph/file/9d68211fa9dcb208200be.jpg')).split()
 WELCOME_VID = environ.get("WELCOME_VID", "https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4")
 
@@ -40,13 +40,13 @@ REFFER_POINT = int(environ.get('USER_POINT', "50")) # Set Referel point Count
 premium = environ.get('PREMIUM_LOGS', '-1002265223323')
 PREMIUM_LOGS = int(premium) if premium and id_pattern.search(premium) else None
 # lock file, set file limit 
-FILE_LIMITE = int(environ.get('FILE_LIMITE', 5))
+FILE_LIMITE = int(environ.get('FILE_LIMITE', 15))
 SEND_ALL_LIMITE = int(environ.get('SEND_ALL_LIMITE', 3))
 LIMIT_MODE = is_enabled((environ.get('LIMIT_MODE', 'True')), False)
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6661494944').split()]
-OWNER_USER_NAME = environ.get("OWNER_USER_NAME", "Safaridev") # widout 👉 @
+OWNER_USER_NAME = environ.get("OWNER_USER_NAME", "Krish_rule") # widout 👉 @
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002244316214').split()]
 # post channel auto post new movie
 POST_CHANNELS = list(map(int, (channel.strip() for channel in environ.get('POST_CHANNELS', '-1002304474918').split(','))))
@@ -62,7 +62,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Safaribotts')
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'https://send.cm'))
 STREAM_API = (environ.get('STREAM_API', '3485337i1afoini3edp2ud'))
-STREAM_HTO = (environ.get('STREAMHTO', 'https://obvious-ruthe-kushwaha-c8f4ba0c.koyeb.app/'))
+STREAM_HTO = (environ.get('STREAMHTO', 'https://t.me/Hoe/69'))
 STREAM_MODE = is_enabled((environ.get('STREAM_MODE', "True")), False)
 
 
