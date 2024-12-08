@@ -3,7 +3,7 @@ class script(object):
 <b><blockquote>Iᴍ Tʜᴇ Mᴏsᴛ Aᴅᴠᴀɴᴄᴇ Aɪ Pᴏᴡᴇʀᴅ Bᴏᴛ.🥰
 Jᴜꜱᴛ Sᴇɴᴅ Mᴇ Aɴʏ Mᴏᴠɪᴇꜱ & Sᴇʀɪᴇꜱ Nᴀᴍᴇ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ.</b></blockquote>
 
-<b><spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/safaridev>ᎦᎯ೯ᎯᏒᎥ</b></spoiler></a>"""
+<b><spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href=https://t.me/krish_rule>Kʀɪsʜ™</b></spoiler></a>"""
     
     HELP_TXT = """<b>ʜᴇʏ {},
 ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.</b>"""
@@ -134,7 +134,7 @@ sᴇɴᴅ ᴀʟʟ ʙᴜᴛᴛᴏɴ ʟɪᴍɪᴛ ʀᴇᴀᴄʜᴇᴅ
 
     ABOUT_TXT = """<b>
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-‣ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/safaridev>ᎦᎯ೯ᎯᏒᎥ</a>
+‣ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/Krish_rule>Kʀɪsʜ™</a>
 ‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
 ‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ
@@ -180,7 +180,7 @@ Bᴏᴛ {}"""
 
 sᴇᴀʀᴄʜ🔍 ғᴏʀᴍᴀᴛ 👇
 
-Pushpa 2021
+Pushpa 2 2024
 Money heist S0E01
 
 ᴏɴʟʏ ɴᴀᴍᴇ ᴏʀ ʏᴇᴀʀ ɴᴏ ᴇxᴛʀᴀ ᴡᴏʀᴅ</i>"""
@@ -215,7 +215,11 @@ Money heist S0E01
 ★ Mᴇssᴀɢᴇ <code>{}</code>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : <b>{file_name}</b>"""
+<b> [@RKMOVIESZIP] <a href="https://t.me/Rkmoviesmain">{file_name}</a> 
+
+<blockquote>✅ 𝘼𝙡𝙨𝙤 𝙟𝙤𝙞𝙣 #𝙍𝙠𝙢𝙤𝙫𝙞𝙚𝙯𝙞𝙥 – #𝙉𝙤𝟏 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙁𝙧𝙚𝙚 𝙈𝙤𝙫𝙞𝙚𝙨 𝘼𝙣𝙙 𝙒𝙚𝙗 𝙎𝙚𝙧𝙞𝙚𝙨 𝙀𝙣𝙩𝙚𝙧𝙩𝙖𝙞𝙣𝙢𝙚𝙣𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡. 
+
+⏤‌‌𝗝⌡𝗼𝗶𝗻 𝗙𝗿𝗲𝗲 –「 @RKMOVIESZIP 」🔥</blockquote>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>
