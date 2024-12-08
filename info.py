@@ -140,9 +140,9 @@ if 'DYNO' in environ:
     
 else:
     ON_HEROKU = True 
-HAS_SSL=bool(getenv('HAS_SSL',False))
+HAS_SSL=bool(getenv('HAS_SSL',True))
 if HAS_SSL:
-    URL = "https://{}/".format(FQDN)
+    URL = "https://testofvjfilter-1fa60b1b8498.herokuapp.com/".format(FQDN)
 else:
     URL = "https://{}/".format(FQDN)
 
